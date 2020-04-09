@@ -26,7 +26,7 @@ This works for macOS 10.11.16. It should work for other macos machines as well.
 
 2. Right click anywhere on the panopto video page. Choose inspect.
 
-   ![Screen Shot 2020-04-09 at 23.38.27 copy](/Users/ChloeL/Desktop/Screen Shot 2020-04-09 at 23.38.27 copy.png)
+   ![](1.png)
 
 3. On the right hand side of the window, there should be a new pop-up.
 
@@ -42,7 +42,7 @@ This works for macOS 10.11.16. It should work for other macos machines as well.
      https://lecturecapture.abc.edf/blahblah/blahblah/xxxxx.ts
      ```
 
-   ![webpage](/Users/ChloeL/Desktop/webpage.png)
+   ![webpage](webpage.png)
 
 
 
@@ -62,7 +62,7 @@ You will see prompts for:
 
 - Index of the last file: pull the progress bar of webpage video towards the end, and check out the file list to find out!
 
-  ![Screen Shot 2020-04-10 at 00.12.22](/Users/ChloeL/Desktop/Screen Shot 2020-04-10 at 00.12.22.png)
+  ![](2.png)
 
 - Hit ENTER
 

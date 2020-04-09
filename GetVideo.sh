@@ -15,5 +15,3 @@ echo "Deleting..."
 sh $BASEDIR/Deleting.sh
 echo $NAME Download completed.
 unset NAME
-# unset newplayspeed
-# unset newPTS

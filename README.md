@@ -66,6 +66,8 @@ You will see prompts for:
 
 - Hit ENTER
 
+![Example](bash.png)
+
 ## When it is done
 
 You should find the video in `~/Downloads/outputdir`

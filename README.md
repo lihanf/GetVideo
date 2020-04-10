@@ -66,7 +66,7 @@ You will see prompts for:
 
 - Hit ENTER
 
-![Example](bash.png)
+![Example](bash1.png)
 
 ## When it is done
 
